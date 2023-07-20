@@ -150,11 +150,24 @@ button{
     padding: 20px;
     font-weight: bold;
     border-radius: 5px;
-    background: rgb(15, 221, 186);
-    width: 250px;
+    /* background: rgb(10, 83, 161); */
+    width: 170px;
     border: 1px solid black;
     text-decoration: none;
+    text-align: center;
 
+}
+
+.btn123{
+   
+    display: block;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    /* background: rgb(10, 83, 161); */
+    width: 100px;
+    border: 1px solid black;
+    text-decoration: none;
     text-align: center;
 
 }
